@@ -54,4 +54,5 @@
 
 ---
 
-**Matérias relacionadas:** [Nome da(s) matéria(s) onde isso apareceu] **Projetos onde usei:** [[projeto-1]], [[projeto-2]]
+**Matérias relacionadas:** [Nome da(s) matéria(s) onde isso apareceu] 
+**Projetos onde usei:** [[projeto-1]], [[projeto-2]]
