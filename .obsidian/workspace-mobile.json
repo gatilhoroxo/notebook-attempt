@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/la.md",
+                "file": "_inbox/desenho.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "la"
+              "title": "desenho"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_inbox/la.md",
+            "file": "_inbox/desenho.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_inbox/la.md",
+            "file": "_inbox/desenho.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_inbox/la.md",
+            "file": "_inbox/desenho.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -193,7 +193,7 @@
     "areas/Programacao/index.md",
     "areas/Matematica/index.md",
     "areas/Hardware/index.md",
-    "_inbox/la.md",
+    "_inbox/desenho.md",
     "/templates/template-sessao-de-estudo.md",
     "/templates/template-projeto.md",
     "/templates/template-materia.md",
