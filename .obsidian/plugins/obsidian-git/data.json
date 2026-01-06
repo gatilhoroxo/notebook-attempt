@@ -1,6 +1,6 @@
 {
-  "commitMessage": "{{hostname}} wrote {{numFiles}} at {{date}}",
-  "autoCommitMessage": "{{hostname}} wrote {{numFiles}} at {{date}}",
+  "commitMessage": "{{hostname}} wrote {{numFiles}} file at {{date}}",
+  "autoCommitMessage": "{{hostname}} wrote {{numFiles}} file at {{date}}",
   "commitMessageScript": "linux wrote {{things}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm",
   "autoSaveInterval": 1,
