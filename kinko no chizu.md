@@ -106,8 +106,8 @@ SORT file.mday DESC
 
 ## 📊 Estatísticas
 
-- Total de conceitos:
-- Total de projetos:
+- Total de conceitos: 
+- Total de projetos: 
 - Última atualização do mapa: {{date}}
 
 ---
