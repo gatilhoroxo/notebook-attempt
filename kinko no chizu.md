@@ -1,4 +1,3 @@
-
 # 🗺️ Kinko no Chizu
 
 _Meu mapa para navegar pelo cofre_
