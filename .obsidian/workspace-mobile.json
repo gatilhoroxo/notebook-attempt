@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "_inbox/la.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "la"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "_inbox/la.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "_inbox/la.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "_inbox/la.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,14 +171,15 @@
   },
   "active": "376889380d1b49ed",
   "lastOpenFiles": [
+    "templates/template-conceito.md",
     "kinko-no-chizu.md",
+    "README.md",
     "/kinko-no-chizu.md",
     "templates/template-sessao-de-estudo.md",
     "templates/template-projeto.md",
     "templates/template-materia.md",
     "templates/template-ideia.md",
     "templates/template-exercicio-resolvido.md",
-    "templates/template-conceito.md",
     "recursos/diagrama.png",
     "projetos/li.md",
     "kinko no chizu.md",
@@ -197,7 +198,6 @@
     "/templates/template-projeto.md",
     "/templates/template-materia.md",
     "/templates/template-ideia.md",
-    "/templates/template-exercicio-resolvido.md",
     "/recursos/diagrama.png",
     "templates",
     "recursos",
