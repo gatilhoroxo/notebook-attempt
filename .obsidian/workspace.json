@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kinko no chizu.md",
+                "file": "Templates/template-conceito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kinko no chizu"
+              "title": "template-conceito"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kinko no chizu.md",
+                "file": "Templates/template-conceito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para kinko no chizu"
+              "title": "Links inversos para template-conceito"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kinko no chizu.md",
+                "file": "Templates/template-conceito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para kinko no chizu"
+              "title": "Links de saída para template-conceito"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kinko no chizu.md",
+                "file": "Templates/template-conceito.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de kinko no chizu"
+              "title": "Sumário de template-conceito"
             }
           }
         ]
@@ -187,14 +187,14 @@
   },
   "active": "a9a8e851ae9432ee",
   "lastOpenFiles": [
-    "Ideias/index.md",
+    "Areas/Programacao/index.md",
     "kinko no chizu.md",
+    "Ideias/index.md",
     "Areas/Hardware/index.md",
     "Areas/Teoria-da-Computacao/index.md",
     "Areas/Sistemas/index.md",
     "Areas/Matematica/index.md",
     "Templates/template-projeto.md",
-    "Areas/Programacao/index.md",
     "Extra-areas",
     "Areas/Hardware",
     "Areas/Teoria-da-Computacao",
