@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f.md",
+                "file": "kinko no chizu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "f"
+              "title": "kinko no chizu"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f.md",
+                "file": "kinko no chizu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "f"
+              "title": "kinko no chizu"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "f.md",
+                "file": "kinko no chizu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para f"
+              "title": "Links inversos para kinko no chizu"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "f.md",
+                "file": "kinko no chizu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para f"
+              "title": "Links de saída para kinko no chizu"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f.md",
+                "file": "kinko no chizu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de f"
+              "title": "Sumário de kinko no chizu"
             }
           }
         ]
@@ -235,7 +235,7 @@
     "_Inbox",
     "Templates/template-materia.md",
     "Sem título.base",
-    "f.md",
+    "kinko no chizu.md",
     "Templates",
     "Recursos",
     "Pensamentos",
