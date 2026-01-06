@@ -7,35 +7,35 @@ _Meu mapa para navegar pelo cofre_
 
 ## 🧭 Áreas Principais
 
-### [[Areas/Programacao/index|Programação]]
+### [[areas/Programacao/index|Programação]]
 
 Linguagens, estruturas de dados, algoritmos
 
 - Conceitos ativos: X
 - Último estudo: [[conceito-recente]]
 
-### [[Areas/Matematica/index|Matemática]]
+### [[areas/Matematica/index|Matemática]]
 
 Fundamentos matemáticos da computação
 
 - Conceitos ativos: X
 - Último estudo: [[conceito-recente]]
 
-### [[Areas/Sistemas/index|Sistemas]]
+### [[areas/Sistemas/index|Sistemas]]
 
 Sistemas operacionais, redes, databases
 
 - Conceitos ativos: X
 - Último estudo: [[conceito-recente]]
 
-### [[Areas/Teoria-da-Computacao/index|Teoria da Computação]]
+### [[areas/Teoria-da-Computacao/index|Teoria da Computação]]
 
 Linguagens formais, compiladores, complexidade
 
 - Conceitos ativos: X
 - Último estudo: [[conceito-recente]]
 
-### [[Areas/Hardware/index|Hardware]]
+### [[areas/Hardware/index|Hardware]]
 
 Eletrônica, arquitetura, circuitos
 
@@ -65,7 +65,7 @@ Eletrônica, arquitetura, circuitos
 
 ## 💡 Ideias Recentes
 
-Ver: [[Ideias/index]]
+Ver: [[ideias/index]]
 
 Últimas 5:
 

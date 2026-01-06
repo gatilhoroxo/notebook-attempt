@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/template-conceito.md",
+                "file": "templates/template-conceito.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/template-conceito.md",
+                "file": "templates/template-conceito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/template-conceito.md",
+                "file": "templates/template-conceito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/template-conceito.md",
+                "file": "templates/template-conceito.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,22 +187,22 @@
   },
   "active": "f5b3e16cff8b4db8",
   "lastOpenFiles": [
-    "Templates/template-materia.md",
-    "Templates/template-conceito.md",
-    "Projetos/li.md",
-    "Extra-areas/le.md",
+    "templates/template-materia.md",
+    "templates/template-conceito.md",
+    "projetos/li.md",
+    "extra-areas/le.md",
     "_inbox/la.md",
-    "Recursos/diagrama.png",
+    "recursos/diagrama.png",
     "Recursos/Não confirmado 311496.crdownload",
     "areas/Programacao/index.md",
     "kinko no chizu.md",
-    "Ideias/index.md",
+    "ideias/index.md",
     "areas/Hardware/index.md",
     "areas/Teoria-da-Computacao/index.md",
     "areas/Sistemas/index.md",
     "areas/Matematica/index.md",
-    "Templates/template-projeto.md",
-    "Extra-areas",
+    "templates/template-projeto.md",
+    "extra-areas",
     "areas/Hardware",
     "areas/Teoria-da-Computacao",
     "areas/Sistemas",
@@ -210,7 +210,7 @@
     "areas/Programacao",
     "_inbox",
     "Sem título.base",
-    "Templates",
+    "templates",
     "README.md"
   ]
 }
