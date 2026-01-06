@@ -1,8 +1,8 @@
 {
   "commitMessage": "{{hostname}} wrote {{numFiles}} at {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "{{hostname}} wrote {{numFiles}} at {{date}}",
   "commitMessageScript": "linux wrote {{things}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitDateFormat": "YYYY-MM-DD HH:mm",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
   "autoPullInterval": 5,
