@@ -211,10 +211,10 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "zk-prefixer:Criar nova nota única": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": true
     }
   },
-  "active": "123826a01f1908b2",
+  "active": "f5b3e16cff8b4db8",
   "lastOpenFiles": [
     "templates/template-exercicio-resolvido.md",
     "templates/template-sessao-de-estudo.md",
