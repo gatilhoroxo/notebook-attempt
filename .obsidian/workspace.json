@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/template-conceito.md",
+                "file": "kinko no chizu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template-conceito"
+              "title": "kinko no chizu"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/template-conceito.md",
+                "file": "kinko no chizu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para template-conceito"
+              "title": "Links inversos para kinko no chizu"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/template-conceito.md",
+                "file": "kinko no chizu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para template-conceito"
+              "title": "Links de saída para kinko no chizu"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template-conceito.md",
+                "file": "kinko no chizu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de template-conceito"
+              "title": "Sumário de kinko no chizu"
             }
           }
         ]
@@ -185,10 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5b3e16cff8b4db8",
+  "active": "a9a8e851ae9432ee",
   "lastOpenFiles": [
-    "templates/template-materia.md",
+    "README.md",
     "templates/template-conceito.md",
+    "templates/template-materia.md",
     "projetos/li.md",
     "extra-areas/le.md",
     "_inbox/la.md",
@@ -210,7 +211,6 @@
     "areas/Programacao",
     "_inbox",
     "Sem título.base",
-    "templates",
-    "README.md"
+    "templates"
   ]
 }
