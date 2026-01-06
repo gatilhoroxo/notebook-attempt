@@ -203,14 +203,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Abrir a troca rápida": false,
+      "canvas:Criar novo canvas": false,
       "bases:Criar nova base": false,
       "zk-prefixer:Criar nova nota única": false,
+      "templates:Inserir modelo": false,
+      "graph:Abrir visualização em gráfico": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": true
     }
   },
