@@ -230,7 +230,11 @@
   },
   "active": "f5b3e16cff8b4db8",
   "lastOpenFiles": [
-    "Areas/Sem título",
+    "Sem título",
+    "Areas/Hardware",
+    "Areas/Teoria-da-Computacao",
+    "Areas/Sistemas",
+    "Areas/Matematica",
     "Areas/Programacao",
     "Templates/template-conceito.md",
     "Templates/template-projeto.md",
@@ -241,9 +245,6 @@
     "Templates",
     "Recursos",
     "Ideias",
-    "Estudos-Extras",
-    "Projetos",
-    "Areas",
     "README.md"
   ]
 }
