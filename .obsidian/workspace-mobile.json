@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideia.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideia"
+              "title": "README"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ideia.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ideia.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ideia.md",
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,6 +171,43 @@
   },
   "active": "376889380d1b49ed",
   "lastOpenFiles": [
-    "/ideia.md"
+    "templates/template-sessao-de-estudo.md",
+    "templates/template-projeto.md",
+    "templates/template-materia.md",
+    "templates/template-ideia.md",
+    "templates/template-exercicio-resolvido.md",
+    "templates/template-conceito.md",
+    "recursos/diagrama.png",
+    "projetos/li.md",
+    "kinko no chizu.md",
+    "ideias/index.md",
+    "extra-areas/Saude/Hormônios.md",
+    "extra-areas/Idiomas/Japonês.md",
+    "extra-areas/Hobbies/Desenho.md",
+    "daily/2026-01-06.md",
+    "areas/Teoria-da-Computacao/index.md",
+    "areas/Sistemas/index.md",
+    "areas/Programacao/index.md",
+    "areas/Matematica/index.md",
+    "areas/Hardware/index.md",
+    "_inbox/la.md",
+    "/templates/template-sessao-de-estudo.md",
+    "/templates/template-projeto.md",
+    "/templates/template-materia.md",
+    "/templates/template-ideia.md",
+    "/templates/template-exercicio-resolvido.md",
+    "/templates/template-conceito.md",
+    "/recursos/diagrama.png",
+    "/projetos/li.md",
+    "templates",
+    "recursos",
+    "projetos",
+    "ideias",
+    "extra-areas/Saude",
+    "extra-areas/Idiomas",
+    "extra-areas/Hobbies",
+    "extra-areas",
+    "daily",
+    "areas/Teoria-da-Computacao"
   ]
 }
