@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kinko no chizu.md",
+                "file": "templates/template-projeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kinko no chizu"
+              "title": "template-projeto"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kinko no chizu.md",
+                "file": "templates/template-projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para kinko no chizu"
+              "title": "Links inversos para template-projeto"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kinko no chizu.md",
+                "file": "templates/template-projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para kinko no chizu"
+              "title": "Links de saída para template-projeto"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kinko no chizu.md",
+                "file": "templates/template-projeto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de kinko no chizu"
+              "title": "Sumário de template-projeto"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "a9a8e851ae9432ee",
   "lastOpenFiles": [
+    "kinko no chizu.md",
     "README.md",
     "templates/template-conceito.md",
     "templates/template-materia.md",
@@ -196,7 +197,6 @@
     "recursos/diagrama.png",
     "Recursos/Não confirmado 311496.crdownload",
     "areas/Programacao/index.md",
-    "kinko no chizu.md",
     "ideias/index.md",
     "areas/Hardware/index.md",
     "areas/Teoria-da-Computacao/index.md",
