@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extra-areas/Hobbies/le.md",
+                "file": "extra-areas/Hobbies/Desenho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "le"
+              "title": "Desenho"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extra-areas/Hobbies/le.md",
+                "file": "extra-areas/Hobbies/Desenho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para le"
+              "title": "Links inversos para Desenho"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extra-areas/Hobbies/le.md",
+                "file": "extra-areas/Hobbies/Desenho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para le"
+              "title": "Links de saída para Desenho"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extra-areas/Hobbies/le.md",
+                "file": "extra-areas/Hobbies/Desenho.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de le"
+              "title": "Sumário de Desenho"
             }
           }
         ]
@@ -185,8 +185,11 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "f5b3e16cff8b4db8",
+  "active": "a9a8e851ae9432ee",
   "lastOpenFiles": [
+    "extra-areas/Saude/Hormônios.md",
+    "extra-areas/Idiomas/Japonês.md",
+    "extra-areas/Hobbies/Desenho.md",
     "kinko no chizu.md",
     "extra-areas/Saude",
     "extra-areas/Hobbies",
@@ -201,7 +204,6 @@
     "templates/template-ideia.md",
     "templates/template-conceito.md",
     "projetos/li.md",
-    "extra-areas/Hobbies/le.md",
     "_inbox/la.md",
     "recursos/diagrama.png",
     "Recursos/Não confirmado 311496.crdownload",
